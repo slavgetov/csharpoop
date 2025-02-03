@@ -1,0 +1,14 @@
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\bin\Debug\net9.0\ContactManagement.exe
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\bin\Debug\net9.0\ContactManagement.deps.json
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\bin\Debug\net9.0\ContactManagement.runtimeconfig.json
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\bin\Debug\net9.0\ContactManagement.dll
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\bin\Debug\net9.0\ContactManagement.pdb
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.AssemblyInfoInputs.cache
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.AssemblyInfo.cs
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.csproj.CoreCompileInputs.cache
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.dll
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\refint\ContactManagement.dll
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.pdb
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.genruntimeconfig.cache
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ref\ContactManagement.dll
