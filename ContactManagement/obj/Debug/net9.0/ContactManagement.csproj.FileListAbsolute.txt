@@ -12,3 +12,4 @@ C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManag
 C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.pdb
 C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.genruntimeconfig.cache
 C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ref\ContactManagement.dll
+C:\Users\Preslav\Downloads\oop\contact-management\ContactManagement\ContactManagement\obj\Debug\net9.0\ContactManagement.sourcelink.json

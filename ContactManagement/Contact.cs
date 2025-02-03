@@ -35,6 +35,35 @@ namespace ContactManagement
                 }
             }
         }
+
+        public string PhoneNumber
+        {
+            get { return _phoneNumber; }
+            set
+            {
+                /*
+                Examples of valid phone numbers:
+                +1 234-567-8901
+                (123) 456-7890
+                123-456-7890
+                1234567890
+                 Invalid phone numbers:
+
+                123-abc-7890 (contains letters)
+                ++1234567 (multiple + signs)
+                */
+                string pattern = @"\+?\d{1,3}[\s-]?\(?\d{1,3}\)?[\s-]?\d{3}[\s-]?\d{4}";
+                Regex re = new Regex(pattern);
+                if (re.IsMatch(value))
+                {
+                    _phoneNumber = value;
+                }
+                else
+                {
+                    Console.WriteLine("Please try to conform to these patterns - +1 234-567-8901, (123) 456-7890, 123-456-7890, 1234567890");
+                }
+            }
+        }
         public Contact(int id) : this(id, "Unknown", "Not provided", "Not provided")
         {
 
